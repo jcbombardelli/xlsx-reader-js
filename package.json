@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/jcbombardelli/xlsx-reader-js#readme",
   "dependencies": {
-    "xlsx": "^0.15.5"
+    "xlsx": "^0.17.0"
   }
 }
